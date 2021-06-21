@@ -1,7 +1,14 @@
 # DesafioSerasa
 App do Desafio Serasa
 
-Para realizar a verificação do meu projeto pode estar sendo feita de duas formas.
+Para a verificação do meu projeto, ela pode estar sendo feita de duas formas.
 
 1º Você pode estar baixando os pacotes do projeto e abrindo ele pelo Andoroid Studio.
-2º Você pode estar baixando o APK que disponibilizei em um celular ou emulador.
+  - Abra o Android Studio e vá em "New"
+  - Depois escolha "Import Project"
+  - E selecione o local onde voce baixou o meu projeto
+
+2º Ou você pode estar baixando o APK que disponibilizei em um celular (android né rsrs) ou emulador.
+  - Instale o APK.
+  - Rode o aplicativo
+  - Pronto :)
